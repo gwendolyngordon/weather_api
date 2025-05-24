@@ -13,4 +13,4 @@ This project is a simple backend REST API built with Python and Flask that fetch
 
 ## Tags 
 
-'Python' 'Flask' 'REST API' 'Backend' 'OpenWeatherMap' 'Weather Data' 'Portfolio Project' 'JSON'
+Python · Flask · REST API · Backend · OpenWeatherMap · Weather Data · Portfolio Project · JSON
