@@ -11,3 +11,6 @@ This project is a simple backend REST API built with Python and Flask that fetch
 - Returns temperature, humidity, wind speed, and a weather description
 - JSON responses suitable for frontend use or integration with other systems 
 
+## Tags 
+
+'Python' 'Flask' 'REST API' 'Backend' 'OpenWeatherMap' 'Weather Data' 'Portfolio Project' 'JSON'
