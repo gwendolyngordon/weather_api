@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
 import requests
+import os
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 
-API_KEY = "66afb519e8d663a37f7a05dc7f0c7679"
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
 @app.route("/weather", methods=["GET"])
 def get_weather():
